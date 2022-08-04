@@ -1,0 +1,7 @@
+{
+  "name": "MPA_TEST",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
